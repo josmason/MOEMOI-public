@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: General discussion
+    url: https://github.com/josmason/MOEMOI-public/discussions
+    about: For questions, ideas, and conversation that do not fit the issue templates above.

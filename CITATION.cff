@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use or build on this framework, please cite it as below."
+type: software
+title: "MOEMOI — Most Optimal and Ever More Optimal Intelligence"
+abstract: >
+  MOEMOI is an open, testable framework built around a single claim: every intelligent system
+  runs the same underlying process to get from where it is to somewhere better. That process
+  is the Intelligence Process (IP) — a six-substep recursive loop (Experience, Understand,
+  Prioritise, Define, Prepare, Do/Learn -- EUPDDL).
+  The framework grounds each step in convergent evidence from cognitive science, decision
+  theory, predictive coding, and AI research, and makes every significant assertion as a
+  numbered, falsifiable claim tracked with a confidence level and pre-registered kill-line.
+authors:
+  - family-names: Mason
+    given-names: Josh
+    affiliation: "Human Living Institute"
+    email: joshmason@humanlivinginstitute.org
+    orcid: ""
+version: "v0.14 (v0.30 fold)"
+date-released: "2026-08-01"
+url: "https://github.com/josmason/MOEMOI-public"
+repository-code: "https://github.com/josmason/MOEMOI-public"
+license: CC-BY-4.0
+keywords:
+  - intelligence
+  - intelligence process
+  - life operating system
+  - recursive self-improvement
+  - cognitive architecture
+  - decision theory
+  - active inference
+  - framework
+  - falsifiable claims
+  - personal AI
+preferred-citation:
+  type: generic
+  title: "A Universal Intelligence Process: How All Intelligent Systems Improve"
+  authors:
+    - family-names: Mason
+      given-names: Josh
+      affiliation: "Human Living Institute"
+  year: 2026
+  url: "https://github.com/josmason/MOEMOI-public"
+  notes: >
+    Version v0.14 (with folds through v0.30, 1 Aug 2026). A preprint draft is available in this
+    repository at MOEMOI_Preprint_Draft_v1.md; arXiv submission pending. Until the preprint
+    is formally published, please cite the repository directly using this file.
